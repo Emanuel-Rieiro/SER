@@ -1,0 +1,10 @@
+audeer==1.19.0
+audformat==0.16.0
+audiofile==1.2.1
+audmath==1.2.1
+pandas==1.5.3
+pycparser==2.21
+PyYAML==6.0
+soundfile==0.12.1
+tqdm==4.65.0
+opensmile
