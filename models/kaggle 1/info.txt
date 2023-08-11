@@ -16,6 +16,8 @@
         2) Con ruido
         3) Con largo y tono alterado
 
+    SPLIT: 75 / 25
+    
 ----------- MODEL
 
      Layer (type)                Output Shape              Param #   
