@@ -1,0 +1,6 @@
+SOURCE: https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition/notebook
+
+            precision    recall  f1-score 
+accuracy:                           0.60
+macro avg:      0.62      0.66      0.62 
+weighted avg:   0.61      0.60      0.60 
