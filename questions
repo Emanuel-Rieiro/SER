@@ -1,0 +1,20 @@
+Hi Luz, thanks for the quick answer.
+
+We are working with the MSP-Conversation corpus v1.1.
+
+
+We requested the access last year for a project this year, so we just started working with it, our objective is to develop a model close to what you have done in "DYNAMIC SPEECH EMOTION RECOGNITION USING A CONDITIONAL NEURAL PROCESS".
+
+
+
+I guess my first question would be about the post-process you have done of the time-continuous annotations (Chapter 3.3 in the The MSP-Conversation Corpus paper).
+
+Our understanding is that for any given annotation, we have to divide each minute in 59 segments, and take the median of all annotations in the last 500 ms to those segments as the post-process annotation, is that correct?
+
+
+
+Our second question is, in trying to reproduce the CNP architecture for "DYNAMIC SPEECH EMOTION RECOGNITION USING A CONDITIONAL NEURAL PROCESS", we need to pre-train wav2vec2 using the MSP-Podcast, which we don't have, and we believe this to be a very expensive process, do you think it is possible to use audeering's pre-trained version of wav2vec2 to going forward?
+
+
+
+Sorry for the long text and the long questions, 
